@@ -66,7 +66,7 @@ console.log(comparacao);
 Operadores aritméticos
 */
 
-var adicao = 1+2;
+var adicao = 1+1;
 console.log(adicao);
 
 
