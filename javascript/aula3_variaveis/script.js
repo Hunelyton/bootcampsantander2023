@@ -63,15 +63,65 @@ console.log('atribuicao');
 var comparacao == '0' == 0;
 console.log(comparacao);
 
-Operadores aritméticos
-*/
+
+
 
 var adicao = 1+1;
 console.log(adicao);
 
 
+var comparacaoIdentica = '0' === 0;
+console.log(comparacaoIdentica)
+
+
+operadores aritméticos
 
 
 
 
+var adicao = 1 + 1;
+console.log(adicao)
 
+
+
+var subtracao = 3 - 2;
+console.log(subtracao);
+
+
+
+
+var multiplicacao = 2 * 3;
+console.log(multiplicacao);
+
+
+
+var divisao = 6 / 2;
+console.log(divisao);
+
+
+
+var divisaoInterira = 5 % 2;
+console.log(divisaoInterira);
+
+
+
+var potenciacao = 2 ** 10;
+console.log(potenciacao);
+
+
+
+OPERADORES RELACIONAIS
+
+
+
+var maiorQue = 5 > 2; (retorna true e se usar < ele retorna false)
+console.log(maiorQue);
+
+
+operadores lógicos
+
+&& - e - considera que todos os valores sejam true
+|| - ou - considera que qualquer valor seja true
+! - não - inverte o valor de true para false ou vice-versa
+
+*/
