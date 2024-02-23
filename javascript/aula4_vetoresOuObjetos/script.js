@@ -32,9 +32,28 @@ console.log(array);*/
 console.log(array);*/
 
 //unshift = add item no inicio do array
+/*array.unshift();
+console.log(array);*/
 
 //indexOf = retorna o indice de um valor
+/*console.log(array.indexOf(true))*/
 
 //splice = remove ou substitui um item pelo indice
+/*array.splice(0, 3);
+console.log(array);*/
 
 //splice = retorna uma parte de um array existente
+/*let novoArray = array.slice(0, 3);
+console.log(novoArray);*/
+
+
+/* 
+
+
+
+*/
+let object = { strig: 'string', Number: 1, Boolean: true, array:["array"], objectInterno: {objctInterno: 'objeto interno'}};
+console.log(object.objectInterno);
+
+var string = object.string;
+console.log
